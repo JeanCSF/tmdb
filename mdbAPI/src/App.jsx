@@ -7,8 +7,7 @@ export default function App() {
   return (
     <div className="App">
       <Navbar />
-      <h2 className='content'>Movies DataBase</h2>
-      <Outlet />
+       <Outlet />
       <Footer />
     </div>
   )

@@ -1,0 +1,11 @@
+.footer {
+    flex-shrink: 0;
+    margin:0 auto;
+    text-align: center;
+    background-color: #324359;
+    padding: 0.5em;
+}
+
+.footer-socials {
+    font-size: 1.7em;
+}
