@@ -28,10 +28,10 @@ const Search = () => {
 
     return (
         <div className="container">
-            <h2 className="title">RESULTADOS PARA: <span className="query-text">{query}</span></h2>
+            <h2 className="title">RESULTS FOR: <span className="query-text">{query}</span></h2>
             <hr />
             <div className="movies-container">
-                {movies.length === 0 && <p>Carregando...</p>}
+                {movies.length === 0 && <p>Loading...</p>}
                 {movies.length > 0 && movies.map((movie) => <MovieCard movie={movie}  key={movie.id}/>)}
             </div>
         </div>

@@ -8,6 +8,7 @@
     background: #324359;
     width: 100%;
     height: auto;
+    z-index: 9999;
 }
 
 
@@ -48,6 +49,7 @@
     border: 1px solid #A9C6D9;
     border-radius: 5px;
     transition: 0.5S;
+    cursor: pointer;
 }
 
 #navbar button:hover {

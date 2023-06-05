@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  line-height: 1.5em;
 }
 
 body, html {
@@ -16,7 +17,14 @@ body {
   color: #F2F2F2;
 }
 
-.content {
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.root {
   flex: 1 0 auto;
 }
 
