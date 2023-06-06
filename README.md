@@ -1,3 +1,3 @@
 # tmdb
 React-Vite App created to practice react hooks consuming TMDB's API
-![Mobiile Screen Example](https://www.dropbox.com/s/o1trb5f9t9du8af/mobile.png?dl=0)
+![Mobiile Screen Example](https://previews.dropbox.com/p/thumb/AB4WNk2jZQYofB5CgGnCsSGOxuChqIvMqIPyhiUOTe5pIx-5gmtZiz2uHy8l7Tmz6Nw-uU7ehsphroE6OnOTXM2StsPbV05IAaDR-wHoD3IVT-TlO1o_e9MTEJ0E0vhg3frZCXlegWyFfeOUZZL1Vx0c8_3OUH9ojAmAbARgyxA2MN-giiNCKN-xoZaDMWQPF91QXWn3_66Uoip_qigG_Yv6nLfLjAuCZyxvhFygtRyRIArDMbl4_V0S6vEkBK7RfKgQom4K9rNoceKGN0JpXfHXGvHAO6ilYPI6dITtoUNPMYgR5ESygmRb1folkyDk1T4IPRsC8uCUUaI8Kj7AF0JExdm3zVI_LSy6-2fYVTjtKmKwkZMUOPcKkLQRejZkN9s/p.png)
