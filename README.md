@@ -7,7 +7,7 @@
     useEffect hook, creating a fully functional application.
 </p>
 <p>
-    The main part of the app was made following this tutorial from Matheus Battisti of "Hora de Codar" 
+    The main part of the app was made following <a href="https://youtu.be/XqxUHVVO7-U" target="_blank" rel="external">this</a> tutorial from Matheus Battisti of "Hora de Codar" 
     channel on Youtube, you can find the original repository <a href="https://github.com/matheusbattisti/movies_lib" target="_blank" rel="external">here</a>.
 </p>
 
