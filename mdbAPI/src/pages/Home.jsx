@@ -25,7 +25,7 @@ const Home = () => {
             <hr />
             <p>
                 This is a experimental project where i use React hooks to consume TMDB's API  and
-                feed the app pages. The main objetive is to pratice the usage of useState an useEffect
+                feed the app pages. The main objetive is to pratice the usage of useState and useEffect
                 hook, creating a fully functional application.
             </p>
             <p>
