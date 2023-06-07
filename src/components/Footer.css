@@ -1,5 +1,6 @@
 .footer {
     text-align: center;
+    flex-shrink: 0;
     background-color: #324359;
     padding: 0.5em;
     bottom: 0;
@@ -8,4 +9,12 @@
 
 .footer-socials {
     font-size: 1.7em;
+
+}
+
+
+.footer-socials a {
+    width: 100%;
+    margin-inline: 0.5em;
+    font-size: xx-large;
 }

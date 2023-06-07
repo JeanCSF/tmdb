@@ -29,14 +29,18 @@
     max-height: 55px;
     border: none;
     border-radius: 5px;
-    font-weight: bold;
+    font-weight: bolder;
     text-transform: uppercase;
     background-color: #A9C6D9;
-    color: #F2F2F2;
+    
 }
 
 #navbar input:focus {
     border: none;
+}
+
+#navbar input::placeholder {
+    color: #324359;
 }
 
 #navbar button {
